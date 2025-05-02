@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+body {
+    font-family: "Sora", sans-serif;
+}
+
+.border-gradient {
+    border: 3px solid;
+    border-image: linear-gradient(to bottom, #ffffff, #ffffff00) 6;
+    border-radius: 16px;
+  }
+
+a.active {
+    color: #00ff22;
+}

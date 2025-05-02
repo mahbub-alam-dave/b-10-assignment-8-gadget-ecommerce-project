@@ -1,0 +1,276 @@
+[
+
+    {
+      "productId": "phone-001",
+      "productTitle": "Pixel Nova X",
+      "productImage": "https://i.ibb.co.com/bjfvn6jw/Pixel-Nova-X.jpg",
+      "category": "Phone",
+      "price": 799,
+      "description": "A flagship smartphone with a powerful AI camera and all-day battery.",
+      "specification": {
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "5000mAh"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": "phone-002",
+      "productTitle": "Xiaomi Redmi 14C",
+      "productImage": "https://i.ibb.co.com/jPsV5bb8/Xiaomi-Redmi-14-C.jpg",
+      "category": "Phone",
+      "price": 699,
+      "description": "Midrange phone with a sleek design and smooth 120Hz display.",
+      "specification": {
+        "processor": "Exynos 2400",
+        "ram": "8GB",
+        "storage": "128GB",
+        "battery": "4500mAh"
+      },
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "productId": "phone-003",
+      "productTitle": "Samsung Galaxy F06 5G",
+      "productImage": "https://i.ibb.co.com/4wNJj2mV/Samsung-Galaxy-F06-5-G.jpg",
+      "category": "Phone",
+      "price": 999,
+      "description": "Apple's latest iPhone with A17 Pro chip and titanium design.",
+      "specification": {
+        "processor": "Apple A17 Pro",
+        "ram": "8GB",
+        "storage": "256GB",
+        "battery": "4350mAh"
+      },
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "productId": "phone-004",
+      "productTitle": "Xiaomi Redmi 13",
+      "productImage": "https://i.ibb.co.com/mr50khWz/Xiaomi-Redmi-13.jpg",
+      "category": "Phone",
+      "price": 849,
+      "description": "Performance powerhouse with Hasselblad-tuned cameras.",
+      "specification": {
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "16GB",
+        "storage": "512GB",
+        "battery": "5400mAh"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "productId": "phone-005",
+      "productTitle": "Google Pixel 9",
+      "productImage": "https://i.ibb.co.com/6cLDzYnj/Google-Pixel-9.jpg",
+      "category": "Phone",
+      "price": 599,
+      "description": "Unique transparent design with customizable LED glyph interface.",
+      "specification": {
+        "processor": "Snapdragon 8s Gen 3",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "4800mAh"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "productId": "phone-006",
+      "productTitle": "Vivo iQOO Z10",
+      "productImage": "https://i.ibb.co.com/HDLg3Hks/Vivo-i-QOO-Z10.jpg",
+      "category": "Phone",
+      "price": 699,
+      "description": "Premium Motorola device with curved display and 125W fast charging.",
+      "specification": {
+        "processor": "Snapdragon 7 Gen 3",
+        "ram": "8GB",
+        "storage": "256GB",
+        "battery": "5000mAh"
+      },
+      "availability": false,
+      "rating": 4.3
+    },
+  
+    {
+      "productId": "camera-001",
+      "productTitle": "Ausek AT-Q44CR Combo 4K",
+      "productImage": "https://i.ibb.co.com/hxVzfqYL/Ausek-AT-Q44-CR-Combo-4-K.jpg",
+      "category": "Camera",
+      "price": 1199,
+      "description": "Compact mirrorless camera with 4K video and dual image stabilization.",
+      "specification": {
+        "sensor": "20.3MP",
+        "video": "4K 60fps"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "productId": "camera-002",
+      "productTitle": "Akaso EK7000 Pro 16MP 4K",
+      "productImage": "https://i.ibb.co.com/Ps5hrz1m/Akaso-EK7000-Pro-16-MP-4-K.jpg",
+      "category": "Camera",
+      "price": 3899,
+      "description": "Professional mirrorless camera with 8K video recording.",
+      "specification": {
+        "sensor": "45MP",
+        "video": "8K 30fps"
+      },
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "productId": "camera-003",
+      "productTitle": "SJCAM SJ6 Legend 16MP 4K",
+      "productImage": "https://i.ibb.co.com/4RFX61W3/SJCAM-SJ6-Legend-16-MP-4-K.jpg",
+      "category": "Camera",
+      "price": 2499,
+      "description": "Versatile full-frame mirrorless camera with real-time autofocus.",
+      "specification": {
+        "sensor": "33MP",
+        "video": "4K 60fps"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": "camera-004",
+      "productTitle": "SJCAM SJ8 Dual Screen Sports",
+      "productImage": "https://i.ibb.co.com/RpSJtFFS/SJCAM-SJ8-Dual-Screen-Sports.jpg",
+      "category": "Camera",
+      "price": 1799,
+      "description": "Classic styled camera with film simulation modes.",
+      "specification": {
+        "sensor": "40MP",
+        "video": "6.2K"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "productId": "camera-005",
+      "productTitle": "SJCAM SJ6 Pro 24MP 4K",
+      "productImage": "https://i.ibb.co.com/ZRCC57GP/SJCAM-SJ6-Pro-24-MP-4-K.jpg",
+      "category": "Camera",
+      "price": 3999,
+      "description": "Pro full-frame camera with 20fps burst and 8K recording.",
+      "specification": {
+        "sensor": "45MP",
+        "video": "8K 60fps"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "productId": "camera-006",
+      "productTitle": "AKASO Brave 7 20MP 4K",
+      "productImage": "https://i.ibb.co.com/YVY0q7v/AKASO-Brave-7-20-MP-4-K.jpg",
+      "category": "Camera",
+      "price": 2199,
+      "description": "Vlogging-friendly camera with 4K 120fps slow-mo.",
+      "specification": {
+        "sensor": "12MP",
+        "video": "4K 120fps"
+      },
+      "availability": false,
+      "rating": 4.6
+    },
+  
+    {
+      "productId": "laptop-001",
+      "productTitle": "Apple MacBook Air 15 inch",
+      "productImage": "https://i.ibb.co.com/Xf7wrq30/Apple-Mac-Book-Air-15-inch.jpg",
+      "category": "Laptop",
+      "price": 3499,
+      "description": "Apple’s top-end laptop with incredible battery and performance.",
+      "specification": {
+        "processor": "M3 Max",
+        "ram": "64GB",
+        "storage": "2TB"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "productId": "laptop-002",
+      "productTitle": "Lenovo IdeaPad 1 15IGL7",
+      "productImage": "https://i.ibb.co.com/Zz92QY3k/Lenovo-Idea-Pad-1-15-IGL7.jpg",
+      "category": "Laptop",
+      "price": 2299,
+      "description": "Premium ultrabook with OLED touchscreen and RTX graphics.",
+      "specification": {
+        "processor": "Intel i9-13900H",
+        "ram": "32GB",
+        "storage": "1TB"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": "laptop-003",
+      "productTitle": "Apple MacBook Air (2022) M2",
+      "productImage": "https://i.ibb.co.com/Vc09MC3m/Macbook-Air-M2-Chip.jpg",
+      "category": "Laptop",
+      "price": 1899,
+      "description": "Slim gaming laptop with powerful RTX 4070 GPU.",
+      "specification": {
+        "processor": "Intel i9",
+        "ram": "32GB",
+        "storage": "1TB"
+      },
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "productId": "laptop-004",
+      "productTitle": "Lenovo IdeaPad Gaming 3",
+      "productImage": "https://i.ibb.co.com/FbJkzP28/Lenovo-Idea-Pad-Gaming-3.jpg",
+      "category": "Laptop",
+      "price": 1799,
+      "description": "Convertible touchscreen laptop with OLED display.",
+      "specification": {
+        "processor": "Intel i7-13700H",
+        "ram": "16GB",
+        "storage": "1TB"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "productId": "laptop-005",
+      "productTitle": "Lenovo IdeaPad Slim 3",
+      "productImage": "https://i.ibb.co.com/XxVQCytB/Lenovo-Idea-Pad-Slim-3.jpg",
+      "category": "Laptop",
+      "price": 2599,
+      "description": "High-performance gaming laptop with RTX 4080.",
+      "specification": {
+        "processor": "Intel i9-13900HX",
+        "ram": "32GB",
+        "storage": "2TB"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "productId": "laptop-006",
+      "productTitle": "Smart Flairedge Celeron",
+      "productImage": "https://i.ibb.co.com/LDwsffdL/Smart-Flairedge-Celeron.jpg",
+      "category": "Laptop",
+      "price": 1399,
+      "description": "Lightweight creative laptop with RTX 3050.",
+      "specification": {
+        "processor": "AMD Ryzen 7 7840HS",
+        "ram": "16GB",
+        "storage": "1TB"
+      },
+      "availability": false,
+      "rating": 4.4
+    }
+  ]
+  
